@@ -1,6 +1,6 @@
 # Ola, eu sou Matheus Bueno
 
-Helpdesk N2, estudante de Sistemas de Informacao e desenvolvedor em evolucao. Tenho foco em sistemas web, automacao, plataformas com IA e interfaces pensadas para uso real.
+Analista de Suporte Computacional, estudante de Sistemas de Informacao e desenvolvedor em evolucao. Tenho foco em sistemas web, automacao, plataformas com IA e interfaces pensadas para uso real.
 
 <div align="left">
   <a href="https://github.com/Kraunser">
