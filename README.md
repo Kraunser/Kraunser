@@ -11,7 +11,7 @@ Analista de Suporte Computacional, estudante de Sistemas de Informacao e desenvo
 
 ## Sobre mim
 
-- Atuo com suporte tecnico N2 e estou direcionando minha carreira para desenvolvimento de software.
+- Atuo como Analista de Suporte e estou direcionando minha carreira para desenvolvimento de software.
 - Curso Sistemas de Informacao e estudo desenvolvimento full stack.
 - Gosto de criar ferramentas para operacao interna, automacao, dashboards e produtos web com IA.
 - Meu objetivo e construir sistemas claros, uteis e bem apresentados, conectando codigo, produto e experiencia do usuario.
